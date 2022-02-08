@@ -3,6 +3,7 @@ public class demoImpl {
 	
 	public void order() {
 		String name="prashnath";
+		int total = 100;
 	}
 
 }
